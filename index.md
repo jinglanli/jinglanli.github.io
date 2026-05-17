@@ -9,7 +9,7 @@ header:
 excerpt: ''
 ---
 
-<h1>Researcher - New York</h1>
+<h1>About</h1>
 
 <div style="background-color:#f5f5ee; padding:22px 28px; line-height:1.7; font-size:1.1rem; border-radius:6px;">
 
