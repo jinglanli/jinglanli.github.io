@@ -1,6 +1,6 @@
 ---
-permalink: /cv/
-title: "CV"
+permalink: /curriculum vitae/
+title: "Curriculum Vitae"
 author_profile: true
 type: page
 classes: wide
