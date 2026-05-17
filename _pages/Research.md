@@ -13,8 +13,8 @@ header:
 
 ## Key Publications
   
-A list is also available @[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jj3GKWMAAAAJ); <sup>*</sup> denotes corresponding author.
-
-Yanchenko, A. K., Deng, D. D., **Li, J.<sup>*</sup>**, Cron, A. J., & West, M. (2023). Hierarchical dynamic modelling for individualized Bayesian forecasting. Journal of the Royal Statistical Society Series C: Applied Statistics, 72(1), 144–164.
+A list is also available @[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jj3GKWMAAAAJ).
 
 **Li, J.<sup>*</sup>**, & Zhang, Z. (2019). Hierarchical time-varying mixed-effects models in high-dimensional time series and longitudinal data studies. Journal of Nonparametric Statistics, 31(3), 695–721.
+
+Yanchenko, A. K., Deng, D. D., **Li, J.<sup>*</sup>**, Cron, A. J., & West, M. (2023). Hierarchical dynamic modelling for individualized Bayesian forecasting. Journal of the Royal Statistical Society Series C: Applied Statistics, 72(1), 144–164.
