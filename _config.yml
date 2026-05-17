@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jinglan Li"
   avatar : "/assets/images/profile_photo.jpg" 
-  bio    : "Researcher focused on applied AI, machine learning and statistics."
+  bio    : "Research Scientist."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
