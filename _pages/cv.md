@@ -29,7 +29,7 @@ B.S in Information and Computing Sciences, Beijing University of Technology
 
 
 `2018-Present`
-Research Scientist, [84.51°](https://www.8451.com/), [Kroger](https://en.wikipedia.org/wiki/Kroger)'s Data Science Subsidiary
+Research Scientist, [84.51°](https://www.8451.com/), [Kroger](https://www.thekrogerco.com/)'s Data Science Subsidiary
 
 `2015`
 Statistical Consultant, [AbbVie](https://www.abbvie.com/)
