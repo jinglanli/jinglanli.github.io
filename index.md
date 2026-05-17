@@ -1,5 +1,5 @@
 ---
-title: "Home JL"
+title: "Home"
 author_profile: true
 layout: single
 classes: wide
