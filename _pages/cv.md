@@ -25,7 +25,7 @@ Cross registrant, Tsinghua University
 B.S in Information and Computing Sciences, Beijing University of Technology
 
 
-### PrExperience
+### Professional Experience
 
 
 `2018-Present`
