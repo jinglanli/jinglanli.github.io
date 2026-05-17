@@ -29,22 +29,14 @@ B.S in Information and Computing Sciences, Beijing University of Technology
 
 
 `2018-Present`
-Research Scientist, 84.51°, Kroger's Data Science Subsidiary
+Research Scientist, [84.51°](https://www.8451.com/), [Kroger](https://en.wikipedia.org/wiki/Kroger)'s Data Science Subsidiary
 
 `2015`
-Statistical Consultant, AbbVie, North Chicago, IL
+Statistical Consultant, [AbbVie](https://www.abbvie.com/)
 
 `2011-2016`
-Research Assistant, Dept. of Statistics, UW-Madison, WI
+Research Assistant, [Dept. of Statistics, UW-Madison](https://stat.wisc.edu/)
 
-`2011-Present`
-Reviewer for Biometrika, JASA, Statistics & Probability Letters, Statistics and Its Interface
-
-
-### Grants and Awards
-
-`2008-2011`
-National Natural Science Foundation of Beijing Project, Grant No. 1062001
-
-`2008-2011`
-Natural Science Foundation of the Education Department of Guizhou Province Project, Grant No.331
+`2011-2017`
+Reviewer for [Biometrika](https://academic.oup.com/biomet), [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20)
+, [Statistics and Its Interface](https://intlpress.com/journals/journalList?id=1804418089940480002), [Statistics & Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters)
