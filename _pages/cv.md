@@ -1,7 +1,7 @@
 ---
 permalink: /curriculum vitae/
 title: "Curriculum Vitae"
-author_profile: false
+author_profile: true
 type: page
 classes: wide
 layout: single
@@ -27,13 +27,16 @@ B.S in Information and Computing Sciences, Beijing University of Technology
 
 ### Professional Experience
 
-`2018-Present` Research Scientist,[84.51°](https://www.8451.com/),[Kroger](https://www.thekrogerco.com/)'s Data Science Subsidiary
+`2018-Present` Research Scientist, [84.51°](https://www.8451.com/),[Kroger](https://www.thekrogerco.com/)'s Data Science Subsidiary
 
-`2015` Science PhD Intern,[AbbVie](https://www.abbvie.com/) R&D
+`2015` Science PhD Intern, [AbbVie](https://www.abbvie.com/) R&D
 
-`2011-2016`Research Assistant,[Dept. of Statistics, UW-Madison](https://stat.wisc.edu/)
+`2011-2016`Research Assistant, [Dept. of Statistics, UW-Madison](https://stat.wisc.edu/)
 
 ### Peer Review
 
 `2011-2017`
-Reviewer, [Biometrika](https://academic.oup.com/biomet), [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20), [Statistics and Its Interface](https://intlpress.com/journals/journalList?id=1804418089940480002), [Statistics & Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters).
+[Biometrika](https://academic.oup.com/biomet),  
+[Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20),  
+[Statistics and Its Interface](https://intlpress.com/journals/journalList?id=1804418089940480002),  
+[Statistics & Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters).
