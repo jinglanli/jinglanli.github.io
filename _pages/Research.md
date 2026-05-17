@@ -1,5 +1,5 @@
 ---
-permalink: /Research/
+permalink: /research/
 title: "Research"
 author_profile: false
 type: page
@@ -8,7 +8,6 @@ layout: single
 header:
     overlay_image: /assets/images/header_photo.jpeg
     caption: Grace Farms
-
 ---
 
 ## Key Publications
