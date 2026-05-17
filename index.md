@@ -26,7 +26,7 @@ Her research interests include Bayesian hierarchical models, time series analysi
 </p>
 
 <p>
-Jinglan holds a PhD in Statistics, an MSc in Mathematics, and a BSc in Information and Computing Sciences with a minor in Economics.
+Jinglan holds a PhD in Statistics, an MS in Mathematics, and a BS in Information and Computing Sciences with a minor in Economics.
 </p>
 
 </div>
