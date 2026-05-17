@@ -35,7 +35,7 @@ B.S in Information and Computing Sciences, Beijing University of Technology
 
 ### Peer Review
 
-`2011-2017`
+`2011-2017`  
 [Biometrika](https://academic.oup.com/biomet),  
 [Journal of the American Statistical Association](https://www.tandfonline.com/journals/uasa20),  
 [Statistics and Its Interface](https://intlpress.com/journals/journalList?id=1804418089940480002),  
