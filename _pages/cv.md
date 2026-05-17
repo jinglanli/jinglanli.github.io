@@ -16,13 +16,13 @@ header:
 Ph.D. in Statistics, University of Wisconsin-Madison
 
 `2011`
-M.Sc. in Mathematics, Beijing University of Technology
+M.S in Mathematics, Beijing University of Technology
 
 `2009`
 Cross registrant, Tsinghua University
 
 `2008`
-B.Sc. in Information and Computing Sciences, Beijing University of Technology
+B.S in Information and Computing Sciences, Beijing University of Technology
 
 
 ### Experience
@@ -43,9 +43,8 @@ Reviewer for Biometrika, JASA, Statistics & Probability Letters, Statistics and 
 
 ### Grants and Awards
 
+`2008-2011`
+National Natural Science Foundation of Beijing Project, Grant No. 1062001
 
 `2008-2011`
 Natural Science Foundation of the Education Department of Guizhou Province Project, Grant No.331
-
-`2008-2011`
-National Natural Science Foundation of Beijing Project, Grant No. 1062001
