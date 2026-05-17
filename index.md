@@ -14,11 +14,11 @@ excerpt: ''
 <div style="background-color:#f5f5ee; padding:22px 28px; line-height:1.7; font-size:1.1rem; border-radius:6px;">
 
 <p>
-Dr. Jinglan Li is a researcher focused on applied AI, machine learning, Bayesian statistics, optimization, and personalization.
+Dr. Jinglan Li is a researcher focused on applied AI, machine learning, Bayesian statistics, optimization, and personalization in supply chain, retail operations, and merchandising.
 </p>
 
 <p>
-Her work spans hierarchical modeling, forecasting, retail analytics, and large-scale decision systems. She is currently a Research Scientist at 84.51°, Kroger’s data science subsidiary, where she works on AI-driven personalization, pricing, and customer behavior modeling for retail applications.
+Her work spans hierarchical modeling, forecasting and Causal inference, and large-scale decision systems. She is currently a Research Scientist at 84.51°, Kroger’s data science subsidiary, where she works on AI-driven personalization, pricing, and customer behavior modeling for retail applications.
 </p>
 
 <p>
