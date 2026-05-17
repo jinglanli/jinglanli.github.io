@@ -32,7 +32,7 @@ B.S in Information and Computing Sciences, Beijing University of Technology
 Research Scientist, [84.51°](https://www.8451.com/), [Kroger](https://www.thekrogerco.com/)'s Data Science Subsidiary
 
 `2015`
-Statistical Consultant, [AbbVie](https://www.abbvie.com/)
+Science PhD Intern, [AbbVie](https://www.abbvie.com/) R&D
 
 `2011-2016`
 Research Assistant, [Dept. of Statistics, UW-Madison](https://stat.wisc.edu/)
