@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jinglan Li"
-  avatar : "/assets/images/profile_photo.JPG"
+  avatar : "/assets/images/profile_photo.jpg"
   bio    : "Researcher"
   links:
     - label: "Email"
