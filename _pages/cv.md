@@ -27,7 +27,7 @@ B.S in Information and Computing Sciences, Beijing University of Technology
 
 ### Professional Experience
 
-`2018-Present` Research Scientist, [84.51°](https://www.8451.com/),[Kroger](https://www.thekrogerco.com/)'s Data Science Subsidiary
+`2018-Present` Research Scientist, [84.51°](https://www.8451.com/), [Kroger](https://www.thekrogerco.com/)'s Data Science Subsidiary
 
 `2015` Science PhD Intern, [AbbVie](https://www.abbvie.com/) R&D
 
